@@ -1,0 +1,5 @@
+Hi, my name is Nicolas Dupláa and I am a web developer trainee from Buenos Aires, Argentina. I have a passion for coding and I am focused on developing my skills in HTML, CSS, JavaScript, SASS, and Bootstrap.
+
+Though I do not have any professional experience yet, I am dedicated to perfecting my craft and creating user-friendly websites. I value teamwork and I am always eager to contribute my skills to help my team succeed.
+
+In this portfolio, you will see examples of my work in web development, including responsive and user-friendly websites. If you are looking for a humble and hardworking web developer trainee to join your team, I am ready to take on any challenge. Thank you for considering me for your web development needs.
